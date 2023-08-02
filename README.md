@@ -1,4 +1,4 @@
-# File-System-Organizer-master--2-
+# File-System-Organizer-master
 
 
 File System organizer is a global command line application using Node.js. It organizes all types of files like documents, applications, 
